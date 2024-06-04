@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+
+  -  name: uwinnipeg
+     description: "Class test data"
+     database: ADEBAYO_DIT_45604_AIW01_D2024SP
+     schema: class_test
+     tables:
+      -  name: CUSTOMER
+         description: "this is the Customer table info"
+      -  name: ORDERS
+         description: "this is the Orders table info"
+      -  name: PRODUCT
+         description: "this is the Product table info"
